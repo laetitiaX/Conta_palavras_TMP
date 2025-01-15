@@ -1,0 +1,3 @@
+// testa_conta_palavras.cpp
+// Copyright [2025] <Letícia Xavier>
+// outros includes e código...
